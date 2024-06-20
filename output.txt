@@ -1,460 +1,460 @@
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c2dAd; 0.5017
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c2dAh; 0.5007
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3cAc; 0.4971
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3dAd; 0.5078
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3dAh; 0.4948
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5c9c; 0.4948
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5d9c; 0.4926
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5d9h; 0.499
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6cTc; 0.5102
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dTh; 0.4933
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c9cTc; 0.5059
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c9dTh; 0.5123
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2cAcAd; 0.4997
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c3d8d; 0.4927
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c3dTd; 0.5012
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c5d8c; 0.501
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6dTc; 0.5061
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7c7d; 0.5003
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7c8c; 0.5031
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7d8h; 0.5008
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8cKc; 0.4938
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8cQc; 0.4939
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8d8h; 0.5143
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dKh; 0.5053
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dQc; 0.4956
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dQh; 0.5019
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9cKd; 0.5057
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4cTcKd; 0.4962
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5d9h; 0.508
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dJh; 0.4871
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dKh; 0.4973
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dQd; 0.5032
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dTh; 0.4998
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c6dTc; 0.5036
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTdAd; 0.5067
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c6d6h; 0.5073
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c6d7d; 0.507
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7c7d; 0.498
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7c8c; 0.5003
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7d8d; 0.501
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7d8h; 0.4965
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cJcJd; 0.4995
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTcAc; 0.5037
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTcTd; 0.5025
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdAh; 0.4999
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdJc; 0.5132
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdTh; 0.4963
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7d8h; 0.5075
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dAh; 0.4966
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8cTc; 0.5067
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8d8h; 0.5064
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8dTd; 0.4949
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8dTh; 0.494
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cAdAh; 0.4956
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJcQc; 0.5003
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJdJh; 0.5064
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJdQh; 0.4931
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cTcKc; 0.5042
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cTdKh; 0.5043
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c8dKd; 0.506
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9cAc; 0.5005
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9dAd; 0.4895
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9dAh; 0.5011
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8cKcKd; 0.4964
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9d9h; 0.5063
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dAd; 0.5071
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dTd; 0.4917
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dTh; 0.5104
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cAcAd; 0.4992
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cKdKh; 0.4986
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cQcQd; 0.5028
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cTcTd; 0.4946
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cTdTh; 0.4997
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; AcAdAh; 0.4993
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcJdJh; 0.5006
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQcKc; 0.5033
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQdKd; 0.4995
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQdKh; 0.4896
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; KcKdKh; 0.5049
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcAdAh; 0.5049
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcKcKd; 0.4927
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcQdKd; 0.4971
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcQdKh; 0.4996
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJcQc; 0.5013
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdJh; 0.5081
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdQd; 0.5047
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdQh; 0.5009
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcKdKh; 0.4979
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdJd; 0.5038
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdQh; 0.508
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQd; 0.5018
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJh; 0.5017
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9c; 0.4982
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9h; 0.5005
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJc; 0.4987
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQh; 0.5029
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTd; 0.503
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJh; 0.5107
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdQh; 0.4995
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQdAs; 0.4954
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJhAs; 0.495
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9cAs; 0.5032
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9hAs; 0.4932
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJcAs; 0.4946
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQhAs; 0.5027
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTdAs; 0.4935
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJhAs; 0.5073
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQdAsKh; 0.5065
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJhAsKh; 0.4913
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9cAsKh; 0.5018
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9hAsKh; 0.4938
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJcAsKh; 0.4931
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQhAsKh; 0.5015
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTdAsKh; 0.493
-test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJhAsKh; 0.4995
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c2dAd; 0.4989
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c2dAh; 0.5041
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3cAc; 0.5001
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3dAd; 0.4997
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c3dAh; 0.5056
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5c9c; 0.507
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5d9c; 0.4968
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5d9h; 0.4936
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6cTc; 0.4948
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dTh; 0.5025
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c9cTc; 0.5114
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c9dTh; 0.4932
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2cAcAd; 0.5018
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c3d8d; 0.5043
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c3dTd; 0.501
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c5d8c; 0.5064
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6dTc; 0.5002
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7c7d; 0.5029
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7c8c; 0.5063
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c7d8h; 0.5096
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8cKc; 0.5104
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8cQc; 0.5101
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8d8h; 0.5003
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dKh; 0.4993
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dQc; 0.4873
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c8dQh; 0.5002
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9cKd; 0.4966
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4cTcKd; 0.5013
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5d9h; 0.4875
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dJh; 0.4923
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dKh; 0.4973
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dQd; 0.5051
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c5dTh; 0.4949
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5c6dTc; 0.4915
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTdAd; 0.5014
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c6d6h; 0.4967
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c6d7d; 0.4916
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7c7d; 0.5009
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7c8c; 0.5045
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7d8d; 0.5007
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6c7d8h; 0.496
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cJcJd; 0.4963
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTcAc; 0.5017
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTcTd; 0.5085
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdAh; 0.499
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdJc; 0.5016
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 6cTdTh; 0.5027
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7d8h; 0.4984
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dAh; 0.5011
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8cTc; 0.5063
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8d8h; 0.5016
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8dTd; 0.5018
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c8dTh; 0.4999
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cAdAh; 0.4986
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJcQc; 0.4891
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJdJh; 0.4939
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cJdQh; 0.4955
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cTcKc; 0.495
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7cTdKh; 0.5018
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c8dKd; 0.4937
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9cAc; 0.507
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9dAd; 0.5023
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8c9dAh; 0.5026
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 8cKcKd; 0.4892
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9d9h; 0.501
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dAd; 0.5027
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dTd; 0.4983
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9c9dTh; 0.4925
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cAcAd; 0.5032
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cKdKh; 0.5013
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cQcQd; 0.4969
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cTcTd; 0.4992
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 9cTdTh; 0.5047
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; AcAdAh; 0.5029
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcJdJh; 0.4952
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQcKc; 0.5016
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQdKd; 0.4911
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; JcQdKh; 0.501
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; KcKdKh; 0.5022
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcAdAh; 0.4949
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcKcKd; 0.5015
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcQdKd; 0.4991
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; QcQdKh; 0.4961
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJcQc; 0.5029
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdJh; 0.5038
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdQd; 0.4955
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcJdQh; 0.5042
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcKdKh; 0.4973
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdJd; 0.4918
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdQh; 0.4944
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQd; 0.4993
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJh; 0.4952
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9c; 0.4945
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9h; 0.5153
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJc; 0.5074
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQh; 0.4949
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTd; 0.4979
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJh; 0.5071
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; TcTdQh; 0.5048
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQdAs; 0.4928
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJhAs; 0.5026
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9cAs; 0.4966
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9hAs; 0.5005
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJcAs; 0.4999
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQhAs; 0.5029
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTdAs; 0.4984
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJhAs; 0.4907
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 5cTcQdAsKh; 0.5035
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 4c9dJhAsKh; 0.4993
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 3c6d9cAsKh; 0.4953
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6d9hAsKh; 0.506
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJcAsKh; 0.5022
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 7c7dQhAsKh; 0.4934
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c5cTdAsKh; 0.504
-test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 2c6dJhAsKh; 0.5061
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c2dAd; 0.5056
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c2dAh; 0.5057
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c3cAc; 0.5032
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c3dAd; 0.5044
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c3dAh; 0.4893
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5c9c; 0.503
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5d9c; 0.5075
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5d9h; 0.493
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6cTc; 0.5004
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dTh; 0.5025
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c9cTc; 0.4998
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c9dTh; 0.5049
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2cAcAd; 0.501
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c3d8d; 0.4992
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c3dTd; 0.5074
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c5d8c; 0.4977
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c6dTc; 0.5005
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c7c7d; 0.5045
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c7c8c; 0.5141
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c7d8h; 0.5015
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8cKc; 0.5033
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8cQc; 0.4977
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8d8h; 0.4965
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8dKh; 0.5021
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8dQc; 0.5007
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c8dQh; 0.4898
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c9cKd; 0.501
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4cTcKd; 0.4953
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c5d9h; 0.4918
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c5dJh; 0.5028
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c5dKh; 0.4908
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c5dQd; 0.4971
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c5dTh; 0.4926
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5c6dTc; 0.5005
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5cTdAd; 0.5105
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c6d6h; 0.495
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c6d7d; 0.4862
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c7c7d; 0.5015
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c7c8c; 0.495
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c7d8d; 0.5002
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6c7d8h; 0.506
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cJcJd; 0.5065
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cTcAc; 0.5016
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cTcTd; 0.5028
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cTdAh; 0.496
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cTdJc; 0.5032
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 6cTdTh; 0.4985
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c7d8h; 0.4904
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c7dAh; 0.509
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c8cTc; 0.5075
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c8d8h; 0.4925
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c8dTd; 0.5051
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c8dTh; 0.5057
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cAdAh; 0.4932
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cJcQc; 0.5018
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cJdJh; 0.4976
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cJdQh; 0.4975
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cTcKc; 0.5107
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7cTdKh; 0.5024
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 8c8dKd; 0.4952
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 8c9cAc; 0.508
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 8c9dAd; 0.5105
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 8c9dAh; 0.5026
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 8cKcKd; 0.499
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9c9d9h; 0.5008
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9c9dAd; 0.5027
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9c9dTd; 0.5049
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9c9dTh; 0.5041
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9cAcAd; 0.5011
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9cKdKh; 0.5004
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9cQcQd; 0.5019
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9cTcTd; 0.5034
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 9cTdTh; 0.4922
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; AcAdAh; 0.4988
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; JcJdJh; 0.5073
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; JcQcKc; 0.5013
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; JcQdKd; 0.4995
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; JcQdKh; 0.5115
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; KcKdKh; 0.5024
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; QcAdAh; 0.5068
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; QcKcKd; 0.4987
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; QcQdKd; 0.5018
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; QcQdKh; 0.5036
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcJcQc; 0.5024
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcJdJh; 0.4949
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcJdQd; 0.5048
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcJdQh; 0.5039
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcKdKh; 0.495
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcTdJd; 0.5023
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcTdQh; 0.497
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5cTcQd; 0.5031
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c9dJh; 0.4929
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c6d9c; 0.4933
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6d9h; 0.4914
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJc; 0.4965
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c7dQh; 0.5011
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5cTd; 0.5006
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJh; 0.4985
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; TcTdQh; 0.5026
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5cTcQdAs; 0.5014
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c9dJhAs; 0.4984
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c6d9cAs; 0.5039
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6d9hAs; 0.4965
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJcAs; 0.4925
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c7dQhAs; 0.4979
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5cTdAs; 0.4953
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJhAs; 0.5179
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 5cTcQdAsKh; 0.4971
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 4c9dJhAsKh; 0.5047
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 3c6d9cAsKh; 0.4993
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6d9hAsKh; 0.5009
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJcAsKh; 0.498
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 7c7dQhAsKh; 0.5006
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c5cTdAsKh; 0.4909
-test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; 2c6dJhAsKh; 0.5061
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c2dAd; 0.5025
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c2dAh; 0.499
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c3cAc; 0.4957
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c3dAd; 0.4987
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c3dAh; 0.5007
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5c9c; 0.4992
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5d9c; 0.4944
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5d9h; 0.4994
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6cTc; 0.5003
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dTh; 0.4956
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c9cTc; 0.493
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c9dTh; 0.5036
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2cAcAd; 0.5098
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c3d8d; 0.5003
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c3dTd; 0.5024
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c5d8c; 0.4962
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c6dTc; 0.5036
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c7c7d; 0.5048
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c7c8c; 0.504
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c7d8h; 0.5013
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8cKc; 0.4994
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8cQc; 0.5103
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8d8h; 0.4985
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8dKh; 0.4981
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8dQc; 0.489
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c8dQh; 0.5018
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c9cKd; 0.4953
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4cTcKd; 0.5009
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c5d9h; 0.5012
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c5dJh; 0.4965
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c5dKh; 0.4984
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c5dQd; 0.5034
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c5dTh; 0.4947
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5c6dTc; 0.496
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5cTdAd; 0.5024
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c6d6h; 0.4959
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c6d7d; 0.4962
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c7c7d; 0.4961
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c7c8c; 0.4993
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c7d8d; 0.4999
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6c7d8h; 0.498
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cJcJd; 0.4961
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cTcAc; 0.496
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cTcTd; 0.4983
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cTdAh; 0.5051
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cTdJc; 0.4989
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 6cTdTh; 0.4872
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c7d8h; 0.5027
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c7dAh; 0.5001
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c8cTc; 0.5053
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c8d8h; 0.491
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c8dTd; 0.5049
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c8dTh; 0.4933
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cAdAh; 0.4959
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cJcQc; 0.5016
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cJdJh; 0.5025
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cJdQh; 0.5047
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cTcKc; 0.5119
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7cTdKh; 0.4942
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 8c8dKd; 0.4974
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 8c9cAc; 0.504
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 8c9dAd; 0.4989
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 8c9dAh; 0.4994
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 8cKcKd; 0.5027
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9c9d9h; 0.5008
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9c9dAd; 0.4925
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9c9dTd; 0.4992
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9c9dTh; 0.4967
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9cAcAd; 0.5076
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9cKdKh; 0.5043
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9cQcQd; 0.4991
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9cTcTd; 0.508
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 9cTdTh; 0.4991
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; AcAdAh; 0.4986
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; JcJdJh; 0.5053
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; JcQcKc; 0.5068
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; JcQdKd; 0.5058
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; JcQdKh; 0.4989
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; KcKdKh; 0.4966
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; QcAdAh; 0.4933
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; QcKcKd; 0.5037
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; QcQdKd; 0.4906
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; QcQdKh; 0.4962
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcJcQc; 0.5104
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcJdJh; 0.5073
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcJdQd; 0.4976
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcJdQh; 0.4902
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcKdKh; 0.5031
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcTdJd; 0.499
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcTdQh; 0.5041
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5cTcQd; 0.4979
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c9dJh; 0.5072
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c6d9c; 0.4999
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6d9h; 0.4962
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJc; 0.5046
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c7dQh; 0.4919
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5cTd; 0.5059
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJh; 0.5048
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; TcTdQh; 0.496
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5cTcQdAs; 0.499
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c9dJhAs; 0.5074
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c6d9cAs; 0.4899
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6d9hAs; 0.4996
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJcAs; 0.4878
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c7dQhAs; 0.4983
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5cTdAs; 0.5066
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJhAs; 0.4973
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 5cTcQdAsKh; 0.4971
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 4c9dJhAsKh; 0.5027
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 3c6d9cAsKh; 0.5065
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6d9hAsKh; 0.5012
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJcAsKh; 0.5017
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 7c7dQhAsKh; 0.5085
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c5cTdAsKh; 0.5018
-test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 2c6dJhAsKh; 0.4966
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c2dAd; 37.65
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c2dAh; 32.58
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3cAc; 31.64
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3dAd; 34.25
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3dAh; 33.85
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5c9c; 32.88
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5d9c; 31.45
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5d9h; 25.50
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6cTc; 35.58
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dTh; 27.62
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c9cTc; 29.35
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c9dTh; 29.06
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2cAcAd; 30.64
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c3d8d; 34.57
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c3dTd; 30.93
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c5d8c; 33.46
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6dTc; 28.20
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7c7d; 34.55
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7c8c; 29.96
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7d8h; 28.10
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8cKc; 31.71
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8cQc; 26.39
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8d8h; 34.09
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dKh; 43.69
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dQc; 23.05
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dQh; 22.41
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9cKd; 40.85
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4cTcKd; 39.05
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5d9h; 28.35
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dJh; 31.87
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dKh; 43.41
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dQd; 26.40
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dTh; 27.23
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c6dTc; 26.57
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTdAd; 34.49
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c6d6h; 34.03
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c6d7d; 30.59
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7c7d; 31.69
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7c8c; 26.03
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7d8d; 26.22
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7d8h; 24.57
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cJcJd; 29.81
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTcAc; 34.39
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTcTd; 26.61
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdAh; 30.19
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdJc; 35.41
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdTh; 20.47
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7d8h; 31.91
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dAh; 35.04
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8cTc; 25.55
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8d8h; 29.58
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8dTd; 23.99
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8dTh; 26.24
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cAdAh; 30.95
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJcQc; 27.74
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJdJh; 26.31
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJdQh; 27.90
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cTcKc; 31.33
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cTdKh; 40.88
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c8dKd; 40.41
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9cAc; 30.60
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9dAd; 27.23
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9dAh; 28.06
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8cKcKd; 40.01
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9d9h; 33.59
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dAd; 36.35
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dTd; 28.23
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dTh; 26.78
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cAcAd; 29.47
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cKdKh; 38.76
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cQcQd; 21.27
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cTcTd; 25.28
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cTdTh; 24.08
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; AcAdAh; 27.50
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcJdJh; 29.21
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQcKc; 21.69
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQdKd; 29.54
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQdKh; 26.86
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; KcKdKh; 33.35
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcAdAh; 22.62
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcKcKd; 33.51
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcQdKd; 33.91
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcQdKh; 29.59
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJcQc; 40.67
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdJh; 29.85
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdQd; 41.40
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdQh; 41.65
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcKdKh; 40.67
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdJd; 26.30
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdQh; 21.23
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQd; 26.72
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJh; 27.43
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9c; 32.69
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9h; 28.78
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJc; 32.37
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQh; 26.06
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTd; 31.40
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJh; 31.96
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdQh; 21.47
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQdAs; 21.42
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJhAs; 29.59
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9cAs; 34.01
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9hAs; 31.30
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJcAs; 33.05
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQhAs; 28.27
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTdAs; 34.81
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJhAs; 34.19
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQdAsKh; 14.16
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJhAsKh; 31.25
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9cAsKh; 37.57
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9hAsKh; 36.49
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJcAsKh; 34.40
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQhAsKh; 23.51
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTdAsKh; 35.23
+test1; UTG_50%_HJ_75%_CO_70%; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJhAsKh; 33.66
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c2dAd; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c2dAh; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3cAc; 36.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3dAd; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c3dAh; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5c9c; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5d9c; 73.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5d9h; 81.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6cTc; 66.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dTh; 80.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c9cTc; 56.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c9dTh; 60.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2cAcAd; 16.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c3d8d; 75.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c3dTd; 76.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c5d8c; 70.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6dTc; 75.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7c7d; 88.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7c8c; 56.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c7d8h; 70.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8cKc; 65.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8cQc; 38.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8d8h; 73.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dKh; 68.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dQc; 51.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c8dQh; 60.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9cKd; 61.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4cTcKd; 68.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5d9h; 66.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dJh; 80.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dKh; 76.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dQd; 60.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c5dTh; 88.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5c6dTc; 71.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTdAd; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c6d6h; 90.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c6d7d; 86.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7c7d; 75.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7c8c; 55.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7d8d; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6c7d8h; 63.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cJcJd; 83.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTcAc; 40.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTcTd; 71.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdAh; 41.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdJc; 65.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 6cTdTh; 65.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7d8h; 68.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dAh; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8cTc; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8d8h; 71.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8dTd; 60.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c8dTh; 55.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cAdAh; 16.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJcQc; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJdJh; 86.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cJdQh; 45.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cTcKc; 45.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7cTdKh; 65.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c8dKd; 63.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9cAc; 33.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9dAd; 40.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8c9dAh; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 8cKcKd; 76.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9d9h; 90.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dAd; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dTd; 66.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9c9dTh; 71.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cAcAd; 16.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cKdKh; 75.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cQcQd; 53.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cTcTd; 58.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 9cTdTh; 60.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; AcAdAh; 0.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcJdJh; 91.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQcKc; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQdKd; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; JcQdKh; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; KcKdKh; 98.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcAdAh; 16.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcKcKd; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcQdKd; 53.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; QcQdKh; 45.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJcQc; 43.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdJh; 61.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdQd; 36.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcJdQh; 36.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcKdKh; 80.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdJd; 65.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdQh; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQd; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJh; 81.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9c; 75.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9h; 78.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJc; 71.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQh; 63.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTd; 73.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJh; 88.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; TcTdQh; 45.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQdAs; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJhAs; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9cAs; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9hAs; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJcAs; 43.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQhAs; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTdAs; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJhAs; 48.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 5cTcQdAsKh; 38.33
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 4c9dJhAsKh; 41.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 3c6d9cAsKh; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6d9hAsKh; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJcAsKh; 40.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 7c7dQhAsKh; 50.00
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c5cTdAsKh; 46.67
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; ; 2c6dJhAsKh; 41.67
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c2dAd; 46.91
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c2dAh; 50.76
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c3cAc; 45.34
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c3dAd; 48.24
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c3dAh; 46.59
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5c9c; 65.64
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5d9c; 74.29
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5d9h; 74.22
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6cTc; 60.32
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dTh; 77.76
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c9cTc; 68.78
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c9dTh; 73.56
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2cAcAd; 32.07
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c3d8d; 72.92
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c3dTd; 74.37
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c5d8c; 72.95
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c6dTc; 72.42
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c7c7d; 73.71
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c7c8c; 65.33
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c7d8h; 70.72
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8cKc; 47.77
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8cQc; 65.18
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8d8h; 75.19
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8dKh; 44.48
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8dQc; 63.33
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c8dQh; 68.47
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c9cKd; 52.64
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4cTcKd; 50.55
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c5d9h; 76.83
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c5dJh; 72.72
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c5dKh; 56.25
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c5dQd; 68.28
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c5dTh; 72.29
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5c6dTc; 74.10
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5cTdAd; 43.21
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c6d6h; 73.80
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c6d7d; 75.55
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c7c7d; 67.76
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c7c8c; 64.25
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c7d8d; 71.81
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6c7d8h; 76.94
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cJcJd; 73.69
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cTcAc; 41.40
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cTcTd; 71.18
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cTdAh; 46.41
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cTdJc; 67.00
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 6cTdTh; 77.18
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c7d8h; 72.86
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c7dAh; 43.01
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c8cTc; 68.72
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c8d8h; 68.87
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c8dTd; 68.82
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c8dTh; 69.51
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cAdAh; 25.68
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cJcQc; 58.79
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cJdJh; 72.72
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cJdQh; 64.95
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cTcKc; 53.87
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7cTdKh; 46.12
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 8c8dKd; 53.66
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 8c9cAc; 42.65
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 8c9dAd; 44.14
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 8c9dAh; 45.85
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 8cKcKd; 25.45
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9c9d9h; 76.92
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9c9dAd; 46.43
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9c9dTd; 69.82
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9c9dTh; 70.41
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9cAcAd; 27.66
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9cKdKh; 27.29
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9cQcQd; 58.11
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9cTcTd; 74.21
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 9cTdTh; 73.76
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; AcAdAh; 15.96
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; JcJdJh; 80.20
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; JcQcKc; 56.53
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; JcQdKd; 47.89
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; JcQdKh; 48.02
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; KcKdKh; 39.37
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; QcAdAh; 26.86
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; QcKcKd; 28.81
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; QcQdKd; 47.96
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; QcQdKh; 44.38
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcJcQc; 51.51
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcJdJh; 70.74
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcJdQd; 46.34
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcJdQh; 50.63
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcKdKh; 31.14
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcTdJd; 74.18
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcTdQh; 63.48
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5cTcQd; 58.69
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c9dJh; 70.75
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c6d9c; 75.63
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6d9h; 71.35
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJc; 69.72
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c7dQh; 66.51
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5cTd; 71.56
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJh; 75.92
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; TcTdQh; 67.00
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5cTcQdAs; 44.40
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c9dJhAs; 47.75
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c6d9cAs; 47.08
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6d9hAs; 48.24
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJcAs; 44.95
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c7dQhAs; 45.78
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5cTdAs; 45.97
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJhAs; 45.97
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 5cTcQdAsKh; 40.92
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 4c9dJhAsKh; 35.32
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 3c6d9cAsKh; 35.94
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6d9hAsKh; 35.23
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJcAsKh; 36.82
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 7c7dQhAsKh; 41.90
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c5cTdAsKh; 34.34
+test3; UTG_4sb_HJ_20sb_CO_47sb_BTN_AI_SB_Call_BB_Call_UTG_Call_HJ_Call_CO_Call; UTG_50%_HJ_75%_CO_70%; ; 2c6dJhAsKh; 35.79
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c2dAd; 21.40
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c2dAh; 18.32
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c3cAc; 33.94
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c3dAd; 30.44
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c3dAh; 25.63
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5c9c; 31.31
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5d9c; 29.23
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5d9h; 26.37
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6cTc; 32.67
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dTh; 27.90
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c9cTc; 28.75
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c9dTh; 21.12
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2cAcAd; 19.16
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c3d8d; 28.21
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c3dTd; 28.75
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c5d8c; 29.31
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c6dTc; 29.48
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c7c7d; 27.40
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c7c8c; 28.23
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c7d8h; 27.46
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8cKc; 30.17
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8cQc; 29.63
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8d8h; 23.99
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8dKh; 25.64
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8dQc; 22.72
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c8dQh; 19.94
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c9cKd; 25.54
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4cTcKd; 22.83
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c5d9h; 24.54
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c5dJh; 23.88
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c5dKh; 25.92
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c5dQd; 22.61
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c5dTh; 23.39
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5c6dTc; 29.35
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5cTdAd; 22.69
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c6d6h; 20.98
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c6d7d; 31.65
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c7c7d; 29.47
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c7c8c; 39.61
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c7d8d; 38.86
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6c7d8h; 37.50
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cJcJd; 23.11
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cTcAc; 27.31
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cTcTd; 25.71
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cTdAh; 20.05
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cTdJc; 23.29
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 6cTdTh; 22.01
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c7d8h; 25.64
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c7dAh; 22.00
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c8cTc; 31.50
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c8d8h; 22.57
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c8dTd; 29.30
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c8dTh; 27.97
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cAdAh; 14.96
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cJcQc; 24.45
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cJdJh; 20.52
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cJdQh; 17.84
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cTcKc; 28.73
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7cTdKh; 22.67
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 8c8dKd; 23.17
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 8c9cAc; 29.70
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 8c9dAd; 21.48
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 8c9dAh; 20.33
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 8cKcKd; 20.71
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9c9d9h; 18.76
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9c9dAd; 20.72
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9c9dTd; 23.94
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9c9dTh; 22.18
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9cAcAd; 16.49
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9cKdKh; 16.96
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9cQcQd; 21.58
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9cTcTd; 21.84
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 9cTdTh; 19.75
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; AcAdAh; 11.16
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; JcJdJh; 15.99
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; JcQcKc; 28.71
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; JcQdKd; 20.97
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; JcQdKh; 16.45
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; KcKdKh; 13.71
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; QcAdAh; 13.16
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; QcKcKd; 17.04
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; QcQdKd; 20.11
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; QcQdKh; 18.94
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcJcQc; 31.17
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcJdJh; 19.52
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcJdQd; 25.13
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcJdQh; 21.08
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcKdKh; 17.07
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcTdJd; 22.45
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcTdQh; 16.17
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5cTcQd; 20.84
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c9dJh; 20.95
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c6d9c; 28.00
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6d9h; 26.89
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJc; 27.69
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c7dQh; 20.34
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5cTd; 25.72
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJh; 24.31
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; TcTdQh; 16.28
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5cTcQdAs; 16.66
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c9dJhAs; 15.76
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c6d9cAs; 17.70
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6d9hAs; 16.10
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJcAs; 18.10
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c7dQhAs; 15.26
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5cTdAs; 24.72
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJhAs; 16.85
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 5cTcQdAsKh; 15.63
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 4c9dJhAsKh; 16.11
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 3c6d9cAsKh; 15.95
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6d9hAsKh; 14.12
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJcAsKh; 15.47
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 7c7dQhAsKh; 15.57
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c5cTdAsKh; 19.35
+test4; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; ; 2c6dJhAsKh; 14.65

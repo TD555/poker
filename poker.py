@@ -1,16 +1,13 @@
 import os
 import random
-import numpy as np
-
-# Define constants
-NUM_SIMULATIONS = 10000  # Number of Monte Carlo simulations
+from treys import Card, Evaluator, Deck
 
 # Function to read hands from hands.txt
 def read_hands(file_path):
     hands = {}
     with open(file_path, 'r') as file:
         for line in file:
-            if line.strip():  # Ignore empty lines
+            if line.strip():
                 hand, cards = line.strip().split(':')
                 hands[hand.strip()] = [c.strip() for c in cards.split(',') if c.strip()]
     return hands
@@ -20,22 +17,23 @@ def read_boards(file_path):
     boards = []
     with open(file_path, 'r') as file:
         for line in file:
-            if line.strip():  # Ignore empty lines
+            if line.strip():
                 boards.append(line.strip())
     return boards
 
+# Function to expand hands with weights
+def expand_hands(file_content, hands):
+    ranges = [{'hands': hands[item.split(':')[0]], 'weight': float(item.split(':')[1])} for item in file_content.strip().split(',') if float(item.split(':')[1])]
+    return ranges
+
 # Function to read ranges from individual range files
-def read_ranges(folder_path):
+def read_ranges(folder_path, hands):
     ranges = {}
     range_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
     for file_name in range_files:
         range_name = os.path.splitext(file_name)[0]
-        ranges[range_name] = []
         with open(os.path.join(folder_path, file_name), 'r') as file:
-            for line in file:
-                if line.strip():  # Ignore empty lines
-                    # print(line.strip().split(','))
-                    ranges[range_name].extend([item.split(':') for item in line.strip().split(',')])
+            ranges[range_name] = expand_hands(file.read(), hands)
     return ranges
 
 # Function to parse queries from queries.txt
@@ -43,74 +41,118 @@ def parse_queries(file_path):
     queries = []
     with open(file_path, 'r') as file:
         for line in file:
-            if line.strip():  # Ignore empty lines
-                queries.append(line.strip().split(';')[:-1])
+            if line.strip():
+                queries.append(line.strip().split(';'))
     return queries
 
-# Function to simulate equity using Monte Carlo simulations
-def simulate_equity(our_range, villain_ranges, board, ):
-    our_combos = our_range
-    villain_combos = [villain_range for villain_range, _ in villain_ranges]
-    
-    board_cards = board.split() if board else []
-    
-    our_wins = 0
-    total_hands = 0
-    
-    for _ in range(NUM_SIMULATIONS):
-        random.shuffle(our_combos)
-        random.shuffle(villain_combos)
-        
-        our_hand = our_combos[0]
-        villain_hand = villain_combos[0]
-        
-        our_score = evaluate_hand(our_hand, board_cards)
-        villain_score = evaluate_hand(villain_hand, board_cards)
-        
-        if our_score > villain_score:
-            our_wins += 1
-        elif our_score == villain_score:
-            our_wins += 0.5
-        
-        total_hands += 1
-    
-    equity = our_wins / total_hands
-    return equity
+# Function to split a string of cards into pairs
+def split_card_into_hands(s):
+    return [s[i:i+2] for i in range(0, len(s), 2)]
 
-# Function to evaluate the strength of a hand given the board
-def evaluate_hand(hand, board):
-    # Placeholder function, implement your hand evaluation logic here
-    return random.random()  # Replace with actual hand evaluation logic
+import random
+import numpy as np
+
+# Function to generate villain hands based on weights
+def generate_villain_hands(villain_ranges, known_cards):
+    villain_hands = []
+    for villain in villain_ranges:
+        hands = []
+        weights = []
+        for hand_data in villain:
+            hands.extend(hand_data['hands'])
+            weights.extend([hand_data['weight']] * len(hand_data['hands']))
+        
+        # Normalize weights to probabilities
+        total_weight = sum(weights)
+        probabilities = [weight / total_weight for weight in weights]
+
+        # Perform weighted random choice
+        chosen_hand = random.choices(hands, weights=probabilities, k=1)[0]
+
+        # Convert chosen hand to Card objects
+        villain_hand_cards = [Card.new(card) for card in split_card_into_hands(chosen_hand)]
+
+        # print(villain_hand_cards)
+        # Ensure chosen hand does not overlap with known cards
+        while any(card in known_cards for card in villain_hand_cards):
+            chosen_hand = random.choices(hands, weights=probabilities, k=1)[0]
+            villain_hand_cards = [Card.new(card) for card in split_card_into_hands(chosen_hand)]
+
+        villain_hands.append(villain_hand_cards)
+
+    return villain_hands
+
+
+
+# Function to simulate equity using Monte Carlo simulations
+def simulate_equity(our_combos, villain_ranges, board, iterations):
+    evaluator = Evaluator()
+    ties = 0
+    board_cards = split_card_into_hands(board)
+    win_probabilities = []
+
+    for our_combo in our_combos:
+        our_wins = 0
+        valid_hands = our_combo['hands']
+        total_weight = sum(combo['weight'] for combo in our_combos)
+        
+        for hands in valid_hands:
+            for _ in range(iterations):
+                if any(card in board_cards for card in split_card_into_hands(hands)):
+                    continue
+                
+                deck = Deck()
+                known_cards = [Card.new(card) for card in board_cards + split_card_into_hands(hands)]
+    
+                deck.cards = [card for card in deck.cards if card not in known_cards]
+                remaining_board = deck.draw(5 - len(board_cards))
+                
+                complete_board = [Card.new(card) for card in board_cards] + remaining_board
+                our_hand = [Card.new(card) for card in split_card_into_hands(hands)]
+
+                villain_hands = generate_villain_hands(villain_ranges, complete_board + our_hand)
+                our_score = evaluator.evaluate(complete_board, our_hand)
+                opponent_scores = [evaluator.evaluate(complete_board, opp_hand) for opp_hand in villain_hands]
+
+                if our_score < min(opponent_scores):
+                    our_wins += 1
+                elif our_score == min(opponent_scores):
+                    if opponent_scores.count(min(opponent_scores)) == 1:
+                        our_wins += 1
+                    else:
+                        ties += 1
+
+        win_probabilities.append((our_wins / (iterations * len(valid_hands))) * (our_combo['weight'] / total_weight))
+
+    win_probability = sum(win_probabilities)
+    tie_probability = ties / iterations
+
+    return win_probability * 100
 
 # Main function to run the script
 def main():
-    # Read input files
+    NUM_SIMULATIONS = int(input("Enter the number of simulations: "))
     hands_file = 'hands.txt'
     boards_file = 'boards.txt'
     queries_file = 'queries.txt'
     ranges_folder = 'ranges'
     
     hands = read_hands(hands_file)
-    # print(hands)
     boards = read_boards(boards_file)
     queries = parse_queries(queries_file)
-    ranges = read_ranges(ranges_folder)
-    # Iterate through each query
+    ranges = read_ranges(ranges_folder, hands)
+    
     results = []
     for query in queries:
-        title = query[0]
-        our_range_name = query[1]
-        villain_range_names = query[2:]
-        
+        title, our_range_name, *villain_range_names = query
         our_range = ranges[our_range_name]
-        villain_ranges = [(villain_name, ranges[villain_name]) for villain_name in villain_range_names]
+        villain_ranges = [ranges[villain_name] for villain_name in villain_range_names[:-1]]
         
         for board in boards:
             equity = simulate_equity(our_range, villain_ranges, board, NUM_SIMULATIONS)
-            result_line = f"{title}; {our_range_name}; " + "; ".join([f"{villain_name}; " for villain_name, _ in villain_ranges]) + f"{board}; {equity}"
+            result_line = f"{title}; {our_range_name}; {'; '.join(villain_range_names)}; {board}; {equity:.2f}"
             results.append(result_line)
     
-    # Write results to output file
     output_file = 'output.txt'
     with open(output_file, 'w') as file:
         for result in results:

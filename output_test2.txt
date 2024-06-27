@@ -1,0 +1,9 @@
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAd; AhAc; 99.71; Tie: 0.15; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.10; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.04
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAd; AhAs; 99.73; Tie: 0.10; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.12; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.05
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAd; AcAs; 99.77; Tie: 0.11; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.08; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.04
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAh; AcAs; 99.72; Tie: 0.11; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.11; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.06
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAh; AcAd; 99.81; Tie: 0.05; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.11; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.03
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c2dAh; AsAd; 99.84; Tie: 0.08; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 0.05; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 0.03
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c3cAc; AhAs; 72.31; Tie: 2.53; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 11.76; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 13.40
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c3cAc; AhAd; 71.47; Tie: 2.77; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 12.13; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 13.63
+test2; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call; 2c3cAc; AsAd; 71.70; Tie: 2.90; UTG_2sb_HJ_8sb_CO_15sb_BTN_27sb_SB_AI_BB_Call_UTG_Fold_HJ_Fold_CO_Call; 11.91; UTG_50%_HJ_75%_CO_70%_BTN_AI_SB_Call_BB_Call_UTG_Call; 13.49

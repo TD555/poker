@@ -4,6 +4,9 @@ from typing import List, Dict
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from treys import Card, Evaluator, Deck
 import time
+from itertools import compress
+
+NUM_SIMULATIONS = 10000
 
 # Function to read hands from hands.txt
 def read_hands(file_path: str) -> Dict[str, List[str]]:
@@ -26,7 +29,7 @@ def read_boards(file_path: str) -> List[str]:
 
 # Function to expand hands with weights
 def expand_hands(file_content: str, hands: Dict[str, List[str]]) -> List[Dict[str, float]]:
-    ranges = [{'hands': hands[item.split(':')[0]], 'weight': float(item.split(':')[1])} for item in file_content.strip().split(',') if float(item.split(':')[1])]
+    ranges = [(hand, float(item.split(':')[1])) for item in file_content.strip().split(',') for hand in hands[item.split(':')[0]] if float(item.split(':')[1])]
     return ranges
 
 # Function to read ranges from individual range files
@@ -53,83 +56,104 @@ def split_card_into_hands(s: str) -> List[str]:
     return [s[i:i+2] for i in range(0, len(s), 2)]
 
 # Function to generate villain hands based on weights
-def generate_villain_hands(villain_ranges: List[Dict[str, List[Dict[str, float]]]], known_cards: List[int]) -> List[List[int]]:
+def generate_villain_hands(villain_ranges, known_cards: List[int]) -> List[List[int]]:
     villain_hands = []
     for villain in villain_ranges:
         hands = []
         weights = []
+        
         for hand_data in villain:
-            hands.extend(hand_data['hands'])
-            weights.extend([hand_data['weight']] * len(hand_data['hands']))
-    total_weight = sum(weights)
-    probabilities = [weight / total_weight for weight in weights]
+            hands.append(hand_data[0])
+            weights.append(hand_data[1])
 
-    while True:
-      chosen_hand = random.choices(hands, weights=probabilities, k=1)[0]
-      villain_hand_cards = [Card.new(card) for card in split_card_into_hands(chosen_hand)]
-      if not any(card in known_cards for card in villain_hand_cards):
+        # Filter out hands that contain known cards
+        valid_mask = [not any(Card.new(card) in known_cards for card in split_card_into_hands(hand)) for hand in hands]
+        valid_hands = list(compress(hands, valid_mask))
+        valid_weights = list(compress(weights, valid_mask))
+
+        if not valid_hands:
+            raise ValueError("No valid hands available after filtering out known cards")
+
+        # Normalize the weights of the valid hands
+        total_valid_weight = sum(valid_weights)
+        valid_probabilities = [weight / total_valid_weight for weight in valid_weights]
+
+        # Select a hand based on the normalized probabilities
+        chosen_hand = random.choices(valid_hands, weights=valid_probabilities, k=1)[0]
+
+        villain_hand_cards = [Card.new(card) for card in split_card_into_hands(chosen_hand)]
         villain_hands.append(villain_hand_cards)
-        break  # Exit loop once a valid hand is found
 
     return villain_hands
 
-
 # Function to simulate equity using Monte Carlo simulations
-def simulate_equity(our_combos: List[Dict[str, float]], villain_ranges: List[Dict[str, List[Dict[str, float]]]], board: str, iterations: int) -> float:
+def simulate_equity(our_hand: str, villain_ranges: List[Dict[str, List[Dict[str, float]]]], board: str, iterations: int) -> Dict[str, float]:
+    hand_card = [Card.new(card) for card in split_card_into_hands(our_hand)]
+    our_wins = 0
+    ties = 0
+    villains_wins = [0] * len(villain_ranges)
     evaluator = Evaluator()
-    board_cards = [Card.new(card) for card in split_card_into_hands(board)]
-    win_probabilities = []
+    
+    for _ in range(iterations):
+        board_cards = [Card.new(card) for card in split_card_into_hands(board)]
 
-    for our_combo in our_combos:
-        our_wins = 0
-        valid_hands = our_combo['hands']
-        total_weight = sum(combo['weight'] for combo in our_combos)
+        deck = Deck()
+        known_cards = board_cards + hand_card
 
-        for hands in valid_hands:
-            hand_cards = [Card.new(card) for card in split_card_into_hands(hands)]
-            if any(card in board_cards for card in hand_cards):
-                continue
+        deck.cards = [card for card in deck.cards if card not in known_cards]
+        remaining_board = deck.draw(5 - len(board_cards))
+        complete_board = board_cards + remaining_board
 
-            for _ in range(iterations):
-                deck = Deck()
-                known_cards = board_cards + hand_cards
-                deck.cards = [card for card in deck.cards if card not in known_cards]
-                remaining_board = deck.draw(5 - len(board_cards))
-                complete_board = board_cards + remaining_board
+        villain_hands = generate_villain_hands(villain_ranges, complete_board + hand_card)
+        our_score = evaluator.evaluate(complete_board, hand_card)
+        opponent_scores = [evaluator.evaluate(complete_board, opp_hand) for opp_hand in villain_hands]
 
-                villain_hands = generate_villain_hands(villain_ranges, complete_board + hand_cards)
-                our_score = evaluator.evaluate(complete_board, hand_cards)
-                opponent_scores = [evaluator.evaluate(complete_board, opp_hand) for opp_hand in villain_hands]
+        min_opponent_score = min(opponent_scores)
 
-                if our_score < min(opponent_scores):
-                    our_wins += 1
-                elif our_score == min(opponent_scores):
-                    if opponent_scores.count(min(opponent_scores)) == 1:
-                        our_wins += 1
+        if our_score < min_opponent_score:
+            our_wins += 1
+        elif our_score == min_opponent_score:
+            ties += 1
+        else:
+            for idx, opponent_score in enumerate(opponent_scores):
+                if opponent_score == min_opponent_score:
+                    villains_wins[idx] += 1
 
-        win_probabilities.append((our_wins / (iterations * len(valid_hands))) * (our_combo['weight'] / total_weight))
+    total_simulations = our_wins + ties + sum(villains_wins)
+    win_probability = (our_wins / total_simulations) * 100
+    tie_probability = (ties / total_simulations) * 100
+    villain_probabilities = [(villain_wins / total_simulations) * 100 for villain_wins in villains_wins]
 
-    win_probability = sum(win_probabilities)
-
-    return win_probability * 100
+    return {
+        "win_probability": win_probability,
+        "tie_probability": tie_probability,
+        "villain_probabilities": villain_probabilities
+    }
 
 # Function to process a single query
-def process_query(query: List[str], hands: Dict[str, List[str]], boards: List[str], ranges: Dict[str, List[Dict[str, float]]], num_simulations: int) -> List[str]:
+def process_query(query: List[str], boards: List[str], ranges: Dict[str, List[Dict[str, float]]], num_simulations: int) -> List[str]:
     results = []
     title, our_range_name, *villain_range_names = query[:-1]
     our_range = ranges[our_range_name]
+    our_hands = [item[0] for item in our_range]
     villain_ranges = [ranges[villain_name] for villain_name in villain_range_names]
 
-    for board in boards:
-        equity = simulate_equity(our_range, villain_ranges, board, num_simulations)
-        result_line = f"{title}; {our_range_name}; {'; '.join(villain_range_names)}; {board}; {equity:.2f}"
-        results.append(result_line)
+    for board in boards[:1]:
+        for our_hand in our_hands:
+            if any(card in split_card_into_hands(our_hand) for card in split_card_into_hands(board)):
+                continue
+            equity = simulate_equity(our_hand, villain_ranges, board, num_simulations)
+            villain_probs_str = '; '.join(f"{villain_name}; {prob:.2f}" for villain_name, prob in zip(villain_range_names, equity['villain_probabilities']))
+            result_line = (
+                f"{title}; {our_range_name}; {board}; {our_hand}; {equity['win_probability']:.2f}; "
+                f"Tie: {equity['tie_probability']:.2f}; {villain_probs_str}"
+            )
+            results.append(result_line)
 
     return results
 
 # Main function to run the script
 def main():
-    NUM_SIMULATIONS = int(input("Enter the number of simulations: "))
     start = time.time()
     hands_file = 'hands.txt'
     boards_file = 'boards.txt'
@@ -143,8 +167,10 @@ def main():
 
     results = []
 
+    print("Simulation started...")
+    
     with ProcessPoolExecutor() as executor:
-        futures = [executor.submit(process_query, query, hands, boards, ranges, NUM_SIMULATIONS) for query in queries]
+        futures = [executor.submit(process_query, query, boards, ranges, NUM_SIMULATIONS) for query in queries[2:3]]
         for future in as_completed(futures):
             results.extend(future.result())
 
